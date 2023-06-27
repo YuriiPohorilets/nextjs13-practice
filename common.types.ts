@@ -1,4 +1,4 @@
-import { User, Session } from "next-auth";
+import { User, Session } from 'next-auth';
 
 export type FormState = {
   title: string;
